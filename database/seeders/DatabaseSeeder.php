@@ -13,6 +13,7 @@ use App\Models\Talla;
 use App\Models\User;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Database\Seeder;
+use Faker\Factory;
 
 class DatabaseSeeder extends Seeder
 {
