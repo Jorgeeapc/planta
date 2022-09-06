@@ -8,7 +8,6 @@
         "php": "^7.3|^8.0",
         "amendozaaguiar/laraveles-spanish-for-jetstream": "^1.6",
         "fruitcake/laravel-cors": "^2.0",
-        "fzaninotto/faker": "^1.9",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.75",
         "laravel/jetstream": "^2.7",
@@ -19,6 +18,7 @@
         "wire-elements/modal": "^1.0"
     },
     "require-dev": {
+        "fzaninotto/faker": "^1.9",
         "facade/ignition": "^2.5",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
